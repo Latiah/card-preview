@@ -1,0 +1,44 @@
+.container{
+    display:flex;
+margin-top:50px;
+margin-left:250px;
+margin-right:250px;
+font-family:Heebo, sans-serif;
+}
+.first{
+background-color:#2D1B07;
+color:white;
+padding:30px;
+}
+.second{
+background-color:#001517;
+color:white;
+padding:30px;
+}
+.third{
+    padding:30px;
+background-color:#000D0C;
+color:white;
+}
+
+.button1{
+    padding:13px 15px;
+    border-radius:15px;
+    color:#2D1B07;
+    border:1px solid white;
+margin-top:20px;
+}
+.button2{
+    padding:13px 15px;
+    border-radius:15px;
+   color: #001517;
+   border:1px solid white;
+  margin-top:20px;
+}
+.button3{
+    padding:13px 15px;
+    border-radius:15px;
+    color:#000D0C;
+    border:1px solid white;
+    margin-top:20px;
+}
